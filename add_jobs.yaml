@@ -192,4 +192,10 @@
   start_time: "20:55"  # "HH:MM" eg. "15:45", WITHIN QUOTES
   duration: 10 # in minutes
   repetition: "1111111"  # eg. "1000000" for every monday, WITHIN QUOTES
+29:
+  name: "Testing Config"
+  channel_name: "La Sexta"
+  start_time: "21:00"
+  duration: 4
+  repetition: "1111111"
 ...
